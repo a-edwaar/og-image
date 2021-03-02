@@ -202,10 +202,10 @@ const App = (_: any, state: AppState, setState: SetState) => {
     };
     const {
         fileType = 'png',
-        fontSize = '100px',
+        fontSize = '200px',
         theme = 'light',
         md = true,
-        text = '**Hello** World',
+        text = '14 Products',
         images=[imageLightOptions[0].value],
         widths=[],
         heights=[],
